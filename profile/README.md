@@ -11,4 +11,4 @@ We make games!
 ## Currect Projects
 
 - Halo: Source 2 Evolved (The S&box gamemode) - Active Development;
-- Minicraft Remixed - Active Development;
+- Minicraft Remixed - Active Development.
