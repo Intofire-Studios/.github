@@ -6,7 +6,7 @@ We make games!
 
 - [Rarmash](https://github.com/Rarmash) - Сreator of [Chronicles of Arclight](https://github.com/Intofire-Studios/Chronicles-of-Arclight), [The Weapon](https://github.com/Rarmash/The-Weapon), and many other projects; 
 
-- [Leinad]() - Creator of Minicraft Remixed (soon in this organization), motivator and helper.
+- [Leinad](https://github.com/Le1nad) - Creator of Minicraft Remixed (soon in this organization), motivator and helper.
 
 ## Currect Projects
 
